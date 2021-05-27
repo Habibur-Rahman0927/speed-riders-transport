@@ -1,0 +1,74 @@
+.form-style{
+    border: 1px solid rgb(206, 212, 218);
+    border-radius: 5px;
+    margin: 0px auto;
+    padding: 30px;
+    height: 395px;
+    width: 500px;
+}
+.all-margin{
+    border:none !important;
+    border-bottom-color: rgb(206, 212, 218) !important;
+    border-bottom-style: solid !important;
+    border-bottom-width: 1px !important;
+    margin: 30px 0px;
+}
+.button-center{
+    text-align: center;
+}
+.buttonstyle{
+    border: none;
+    height: 45px;
+    width: 435px;
+    color: white;
+    background-color: #FF7347;
+    border-radius: 5px;
+}
+.linestyle{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.line{
+    background-color: black;
+    height: 1px;
+    width: 200px;
+    margin-top: 12px;
+}
+.orstyle{
+    margin: 0px 5px;
+}
+
+.BtnStyle{
+    margin: 10px auto;
+    border: none;
+    background: none;
+    border: 1px solid gray;
+    height: 45px;
+    width: 440px;
+    border-radius: 25px;
+}
+.toggleBtnStyling{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.toggleBtn{
+    margin: 10px 0px;
+    border: none;
+    background: none;
+    color: #FF7347;
+
+}
+.btnParagraph{
+    color: gray;
+    margin-top: 17px;
+    
+}
+.borderBottom{
+    border-bottom-color: #FF7347 !important;
+    border-bottom-style: solid !important;
+    border-bottom-width: 1px !important;
+}

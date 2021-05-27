@@ -1,0 +1,12 @@
+.background{
+    display: flex;
+    background: url('../../images/Bg.png') bottom;
+    height: 100vh;
+    background-size: cover;
+    min-height: 500px;
+}
+@media(max-width: 450px){
+    .background{
+        height:auto;
+    }
+}

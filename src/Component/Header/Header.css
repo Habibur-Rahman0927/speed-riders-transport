@@ -1,0 +1,25 @@
+.padingitem{
+    padding: 20px 0px;
+}
+.floatRight{
+    float: right;
+}
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+nav a{
+    text-decoration: none !important;
+    color: black;
+    margin-right: 20px ;
+    padding: 5px 10px;
+}
+nav a:hover{
+    color:#FF7347;
+}
+.loginstyle{
+    background-color:#FF7347;
+    color: white !important;
+    border-radius: 5px;
+}
